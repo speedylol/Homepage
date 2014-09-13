@@ -1,0 +1,55 @@
+body {
+	
+	background: #171717 url("http://i.imgur.com/HAJOw4u.png") fixed no-repeat bottom right;
+}
+
+img {
+	z-index: -1;
+}
+
+span {
+	font-family: "Lucida Console" ;
+	color: white;
+	text-align: center;
+	font-size: 24px;
+}
+
+.menu{
+
+	vertical-align: middle;
+	position: fixed;
+	width:100%;
+	margin: 0px auto;
+	display: table;
+	top: 50%;
+	left: 50%;
+	margin-top: -50px;
+  margin-left: -100px;
+	
+}
+
+a {
+	text-decoration: none;
+	font-size: 16px;
+	color: #7db2d4;
+}
+
+a:hover {
+
+	color: #CACADC;
+
+
+}
+
+.sect {
+	display: inline-block;
+	margin: 0 auto;
+	position: fixed;
+	
+	
+}
+
+.bigbox {
+	
+	
+}
