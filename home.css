@@ -37,16 +37,12 @@ a {
 a:hover {
 
 	color: #CACADC;
-
-
 }
 
 .sect {
 	display: inline-block;
 	margin: 0 auto;
 	position: fixed;
-	
-	
 }
 
 .bigbox {
