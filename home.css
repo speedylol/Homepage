@@ -1,11 +1,6 @@
-body {
-	
-	background: #171717 url("http://i.imgur.com/HAJOw4u.png") fixed no-repeat bottom right;
-}
+body {	background: #171717 url("http://i.imgur.com/HAJOw4u.png") fixed no-repeat bottom right; }
 
-img {
-	z-index: -1;
-}
+img { z-index: -1; }
 
 span {
 	font-family: "Lucida Console" ;
@@ -15,7 +10,6 @@ span {
 }
 
 .menu{
-
 	vertical-align: middle;
 	position: fixed;
 	width:100%;
@@ -24,8 +18,7 @@ span {
 	top: 50%;
 	left: 50%;
 	margin-top: -50px;
-  margin-left: -100px;
-	
+        margin-left: -100px;
 }
 
 a {
@@ -34,10 +27,7 @@ a {
 	color: #7db2d4;
 }
 
-a:hover {
-
-	color: #CACADC;
-}
+a:hover { color: #CACADC; }
 
 .sect {
 	display: inline-block;
@@ -45,7 +35,3 @@ a:hover {
 	position: fixed;
 }
 
-.bigbox {
-	
-	
-}
